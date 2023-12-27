@@ -1,4 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Chapter 1](chapter1.md)
+* [Introduction to Statistics](chapter1.md)
+* [Introduction to Experimental Design](chapter2.md)
