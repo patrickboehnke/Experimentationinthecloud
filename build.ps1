@@ -2,7 +2,7 @@ param (
     [Parameter(Mandatory=$true)][string]$commit
     )
 
-Copy-Item -R _book/* .
+Copy-Item -RF _book/* .
 
 git clean -fx _book
 
